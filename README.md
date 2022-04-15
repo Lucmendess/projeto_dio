@@ -1,4 +1,4 @@
-# projeto_dio
+# proje Processamento de imagem com  Python
 
 
 O projeto é referente aos conceitos de pacotes.
