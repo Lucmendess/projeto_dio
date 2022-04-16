@@ -30,5 +30,6 @@ Vantagens de criar um pacote:
 Comandos de instalações
 
   python -m pip install --upgrade pip
+  
   python -m pip install --user twine
   python -m pip install --user setuptools
