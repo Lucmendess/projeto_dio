@@ -25,3 +25,10 @@ Vantagens de criar um pacote:
 - **Wheel e Sdist**: dois tipos de distribuições;
 - **Setuptools**: pacote usado em setup.py para gerar as distribuições;
 - **Twine**: pacote usado para subir as distribuições no repositório Pypi.
+
+
+Comandos de instalações
+
+  python -m pip install --upgrade pip
+  python -m pip install --user twine
+  python -m pip install --user setuptools
