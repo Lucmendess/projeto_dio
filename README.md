@@ -34,3 +34,5 @@ Vantagens de criar um pacote:
   python -m pip install --user twine
   
   python -m pip install --user setuptools
+
+  python setup.py sdist bdist_wheel
