@@ -1,0 +1,14 @@
+README.md
+setup.py
+image_processing_lucelia.egg-info/PKG-INFO
+image_processing_lucelia.egg-info/SOURCES.txt
+image_processing_lucelia.egg-info/dependency_links.txt
+image_processing_lucelia.egg-info/requires.txt
+image_processing_lucelia.egg-info/top_level.txt
+package_name/__init__.py
+package_name/module1_name/__init__.py
+package_name/module1_name/file1_name.py
+package_name/module1_name/file2_name.py
+package_name/module2_name/__init__.py
+package_name/module2_name/file1_name.py
+package_name/module2_name/file2_name.py

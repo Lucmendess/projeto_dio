@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: image-processing-lucelia
+Version: 0.0.1
+Summary: Passo a passo passado do projeto pela instrutora.
+Home-page:  https://github.com/Lucmendess/projeto_dio
+Author: Lucelia Mendes
+Author-email: lucmendess@hotmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# image_processing
+
+Description. 
+The package package_name is used to:
+	Processing:
+		- Histogram matching
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+    
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install package_name
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+LucÃ©lia Mendes
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+

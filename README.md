@@ -1,38 +1,35 @@
-# proje Processamento de imagem com  Python
+# image_processing
 
+Description. 
+The package package_name is used to:
+	Processing:
+		- Histogram matching
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+        - Plot image
+		- Plot result
+		- Plot histogram
 
-O projeto é referente aos conceitos de pacotes.
-Utilizando os arquivos e pacotes disponibilizados pela instrutora Karina. Onde é explicado cada pacote e informações para o projeto.
+## Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
-# Módulo vs Pacote
-- **Módulo**: objeto que serve como unidade organizacional do código que é carregado pelo comando import.
-- **Pacote**: coleção de módulos com hierarquia.
+```bash
+pip install package_name
+```
 
-# Modularização
-Vantagens da modularização:
-- Legibilidade;
-- Manutenção;
-- Reaproveitamento do código.
+## Usage
 
-# Pacote em python
-Vantagens de criar um pacote:
-- facilidade de compartilhamento;
-- facilidade de instalação.
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
 
-# Conceitos
-- **Pypi**: repositório público oficial de pacotes;
-- **Wheel e Sdist**: dois tipos de distribuições;
-- **Setuptools**: pacote usado em setup.py para gerar as distribuições;
-- **Twine**: pacote usado para subir as distribuições no repositório Pypi.
+## Author
+Lucélia Mendes
 
-
-#  Comando de instalação
-
-  python -m pip install --upgrade pip
-  
-  python -m pip install --user twine
-  
-  python -m pip install --user setuptools
-
-  
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
